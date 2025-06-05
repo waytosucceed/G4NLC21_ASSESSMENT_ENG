@@ -1,0 +1,342 @@
+{
+  "heading": "select a topic",
+  "topics": [
+    {
+      "heading": "Noun (Proper and common)",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": "Which word is a proper noun in this sentence?<br> Sarah went to the park with her dog.",
+    "options": [
+      { "text": "park" },
+      { "text": "dog" },
+      { "text": "Sarah" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": "Choose the proper noun.",
+    "options": [
+      { "text": "city" },
+      { "text": "Sydney" },
+      { "text": "school" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 3,
+    "question": "What is the common noun in this sentence?<br> Michael dropped his pencil on the desk.",
+    "options": [
+      { "text": "Michael" },
+      { "text": "pencil" },
+      { "text": "dropped" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": "Which word is a common noun?",
+    "options": [
+      { "text": "river" },
+      { "text": "Australia" },
+      { "text": "Amazon" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 5,
+    "question": "Choose the sentence with a common noun.",
+    "options": [
+      { "text": "Jenny lives in Paris." },
+      { "text": "The book was on the table." },
+      { "text": "We visited the Eiffel Tower." }
+    ],
+    "answer": 1
+  }
+]
+
+    },
+    {
+      "heading": "Noun (Abstract and Concrete)",
+      "questions": [
+  {
+    "questionNo": 6,
+    "question": "Which is an abstract noun?",
+    "options": [
+      { "text": "happiness" },
+      { "text": "apple" },
+      { "text": "chair" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 7,
+    "question": "Identify the abstract noun in this sentence.<br> Her kindness was appreciated.",
+    "options": [
+      { "text": "her" },
+      { "text": "kindness" },
+      { "text": "appreciated" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 8,
+    "question": "Which is a concrete noun?",
+    "options": [
+      { "text": "beauty" },
+      { "text": "happiness" },
+      { "text": "table" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 9,
+    "question": "What kind of noun is \"freedom\"?",
+    "options": [
+      { "text": "Proper" },
+      { "text": "Abstract" },
+      { "text": "Common" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 10,
+    "question": "Choose the concrete noun.",
+    "options": [
+      { "text": "courage" },
+      { "text": "building" },
+      { "text": "honesty" }
+    ],
+    "answer": 1
+  }
+]
+ 
+    },
+    {
+      "heading": "Noun (Collective, Countable and Uncountable)",
+      "questions": [
+  {
+    "questionNo": 11,
+    "question": "Which word is a collective noun?",
+    "options": [
+      { "text": "milk" },
+      { "text": "team" },
+      { "text": "bottle" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": "Choose the countable noun.",
+    "options": [
+      { "text": "air" },
+      { "text": "chair" },
+      { "text": "water" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": "Which is an uncountable noun?",
+    "options": [
+      { "text": "sugar" },
+      { "text": "books" },
+      { "text": "boxes" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": "Identify the collective noun.",
+    "options": [
+      { "text": "crowd" },
+      { "text": "phone" },
+      { "text": "light" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": "What kind of noun is \"herd\"?",
+    "options": [
+      { "text": "Abstract" },
+      { "text": "Countable" },
+      { "text": "Collective" }
+    ],
+    "answer": 2
+  }
+]
+  
+    },
+    {
+      "heading": "Pronouns (Personal pronouns)",
+      "questions": [
+  {
+    "questionNo": 16,
+    "question": "Choose the correct subject pronoun:<br> _____ like to play soccer after school.",
+    "options": [
+      { "text": "Him" },
+      { "text": "He" },
+      { "text": "His" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 17,
+    "question": "Choose the correct subject pronoun:<br> Jack and _____ are going to the library.",
+    "options": [
+      { "text": "him" },
+      { "text": "us" },
+      { "text": "I" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 18,
+    "question": "Can you help _____ with our homework?",
+    "options": [
+      { "text": "us" },
+      { "text": "we" },
+      { "text": "they" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 19,
+    "question": "Choose the correct subject pronoun:<br> _____ are reading a book in the garden.",
+    "options": [
+      { "text": "Them" },
+      { "text": "They" },
+      { "text": "Their" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 20,
+    "question": "Choose the correct object pronoun: <br>My brother and I saw _____ at the mall.",
+    "options": [
+      { "text": "her" },
+      { "text": "she" },
+      { "text": "his" }
+    ],
+    "answer": 0
+  }
+]
+
+      
+    },
+    {
+      "heading": "Pronouns (Possessive and demonstrative)",
+      "questions": [
+  {
+    "questionNo": 21,
+    "question": "Choose the correct pronoun to complete the sentence.<br> That backpack is _____.",
+    "options": [
+      { "text": "your" },
+      { "text": "yours" },
+      { "text": "you" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 22,
+    "question": "Choose the correct pronoun to complete the sentence. <br>_____ is my favourite book.",
+    "options": [
+      { "text": "This" },
+      { "text": "Her" },
+      { "text": "Mine" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 23,
+    "question": "Choose the correct pronoun to complete the sentence.<br> The red bike is _____.",
+    "options": [
+      { "text": "our" },
+      { "text": "us" },
+      { "text": "ours" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 24,
+    "question": "Choose the correct pronoun to complete the sentence.<br> That toy is not _____.",
+    "options": [
+      { "text": "mine" },
+      { "text": "me" },
+      { "text": "my" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 25,
+    "question": "Choose the correct pronoun to complete the sentence.<br> _____ is my sister’s cat.",
+    "options": [
+      { "text": "These" },
+      { "text": "This" },
+      { "text": "Her" }
+    ],
+    "answer": 1
+  }
+]
+
+    },
+    {
+      "heading": "Pronouns (Reflexive and relative)",
+      "questions": [
+  {
+    "questionNo": 26,
+    "question": "Choose the correct pronoun to complete the sentence.<br> He hurt _____ while climbing the tree.",
+    "options": [
+      { "text": "himself" },
+      { "text": "him" },
+      { "text": "his" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 27,
+    "question": "Choose the correct pronoun to complete the sentence.<br> I made this sandwich by _____.",
+    "options": [
+      { "text": "mine" },
+      { "text": "myself" },
+      { "text": "me" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 28,
+    "question": "Choose the correct pronoun to complete the sentence.<br> The dog _____ barked all night is very loud.",
+    "options": [
+      { "text": "whom" },
+      { "text": "which" },
+      { "text": "itself" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 29,
+    "question": "Choose the correct pronoun to complete the sentence.<br> We enjoyed _____ at the picnic.",
+    "options": [
+      { "text": "ourselves" },
+      { "text": "myselves" },
+      { "text": "ourself" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 30,
+    "question": "Choose the correct pronoun to complete the sentence.<br> The boy _____ found the wallet returned it to the office.",
+    "options": [
+      { "text": "which" },
+      { "text": "whom" },
+      { "text": "who" }
+    ],
+    "answer": 2
+  }
+]
+  
+    }
+  ]
+}
